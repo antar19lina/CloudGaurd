@@ -1,0 +1,11 @@
+{
+    "web_check": {
+        "present": [],
+        "missing": [
+            "X-Frame-Options",
+            "X-Content-Type-Options",
+            "Strict-Transport-Security"
+        ],
+        "error": "('Connection aborted.', HTTPException('got more than 400 headers'))"
+    }
+}

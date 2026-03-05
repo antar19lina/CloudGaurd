@@ -1,0 +1,20 @@
+2026-02-03 10:56:48,120 - INFO - Scan initiated
+2026-02-03 10:56:49,531 - INFO - Target received: example.com
+
+2026-02-03 10:56:50,112 - INFO - Starting port scan module
+2026-02-03 10:56:52,984 - INFO - Port scan completed successfully
+
+2026-02-03 10:56:53,301 - INFO - Starting web security header check
+2026-02-03 10:56:54,990 - INFO - Web header analysis completed
+
+2026-02-03 10:56:55,214 - INFO - Starting directory enumeration
+2026-02-03 10:56:56,841 - INFO - Directory enumeration completed
+
+2026-02-03 10:56:57,112 - INFO - Starting vulnerability analysis
+2026-02-03 10:56:58,456 - INFO - Vulnerability analysis completed
+
+2026-02-03 10:56:59,031 - INFO - Report saved successfully
+2026-02-03 10:56:59,702 - INFO - AWS S3 upload skipped (disabled in config)
+2026-02-03 10:57:00,001 - INFO - Scan completed successfully for example.com
+2026-02-03 11:19:01,003 - INFO - Scan completed successfully for httpbin.org
+2026-02-03 11:19:01,004 - INFO - Report saved successfully
