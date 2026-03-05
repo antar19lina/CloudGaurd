@@ -36,7 +36,7 @@ CloudGuard is built using secure-by-design principles and follows modular, scala
 
 ---
 
-## 🎯 Problem Statement
+## 🎯 Problem Statement 
 ```
 Modern cloud deployments require continuous security validation.  
 Manual testing is slow, inconsistent, and not scalable.
