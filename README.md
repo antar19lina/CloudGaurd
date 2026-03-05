@@ -3,7 +3,7 @@
 # 🔐 CloudGuard  
 ### Enterprise Cloud Security Automation Platform  
 
-<i>Automated Vulnerability Assessment • Cloud-Native Security Validation • DevSecOps Ready</i>
+<i>Automated Vulnerability Assessment • Cloud-Native Security Validation • DevSecOps Ready</i> 
 
 <br>
 
