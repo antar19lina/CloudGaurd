@@ -4,7 +4,7 @@
 ### Enterprise Cloud Security Automation Platform  
 
 <i>Automated Vulnerability Assessment • Cloud-Native Security Validation • DevSecOps Ready</i> 
-
+ 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
